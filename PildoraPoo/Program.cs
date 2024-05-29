@@ -54,6 +54,26 @@ public class Program
         
         // Imprimir el saldo después del retiro en la consola.
         Console.WriteLine($"Saldo después de Retirar 300€ es = {cuenta.Saldo}");
+
+        Console.WriteLine("\nINTERFACES Y CLASES ABSTRACTAS");
+
+        //INTERFACES Y CLASES ABSTRACTAS
+
+        AnimalAbstract dog = new Dog("Topuria");
+        dog.MakeSound();
+        dog.Sleep();
+
+        AnimalAbstract cat = new Cat("Tom");
+        cat.MakeSound();
+        cat.Sleep();
+
+        Bird bird = new Bird("Pidgeot");
+        bird.MakeSound();
+        bird.Fly();
+
+        Fish fish = new Fish("Nemo");
+        fish.MakeSound();
+        fish.Swim();
     }
 
 
