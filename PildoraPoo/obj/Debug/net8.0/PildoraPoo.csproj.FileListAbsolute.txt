@@ -1,0 +1,15 @@
+C:\Users\adria\OneDrive\Documentos\factoriaf5\csharp\pildoraPooCsharp\PildoraPoo\bin\Debug\net8.0\PildoraPoo.exe
+C:\Users\adria\OneDrive\Documentos\factoriaf5\csharp\pildoraPooCsharp\PildoraPoo\bin\Debug\net8.0\PildoraPoo.deps.json
+C:\Users\adria\OneDrive\Documentos\factoriaf5\csharp\pildoraPooCsharp\PildoraPoo\bin\Debug\net8.0\PildoraPoo.runtimeconfig.json
+C:\Users\adria\OneDrive\Documentos\factoriaf5\csharp\pildoraPooCsharp\PildoraPoo\bin\Debug\net8.0\PildoraPoo.dll
+C:\Users\adria\OneDrive\Documentos\factoriaf5\csharp\pildoraPooCsharp\PildoraPoo\bin\Debug\net8.0\PildoraPoo.pdb
+C:\Users\adria\OneDrive\Documentos\factoriaf5\csharp\pildoraPooCsharp\PildoraPoo\obj\Debug\net8.0\PildoraPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Documentos\factoriaf5\csharp\pildoraPooCsharp\PildoraPoo\obj\Debug\net8.0\PildoraPoo.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Documentos\factoriaf5\csharp\pildoraPooCsharp\PildoraPoo\obj\Debug\net8.0\PildoraPoo.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Documentos\factoriaf5\csharp\pildoraPooCsharp\PildoraPoo\obj\Debug\net8.0\PildoraPoo.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Documentos\factoriaf5\csharp\pildoraPooCsharp\PildoraPoo\obj\Debug\net8.0\PildoraPoo.sourcelink.json
+C:\Users\adria\OneDrive\Documentos\factoriaf5\csharp\pildoraPooCsharp\PildoraPoo\obj\Debug\net8.0\PildoraPoo.dll
+C:\Users\adria\OneDrive\Documentos\factoriaf5\csharp\pildoraPooCsharp\PildoraPoo\obj\Debug\net8.0\refint\PildoraPoo.dll
+C:\Users\adria\OneDrive\Documentos\factoriaf5\csharp\pildoraPooCsharp\PildoraPoo\obj\Debug\net8.0\PildoraPoo.pdb
+C:\Users\adria\OneDrive\Documentos\factoriaf5\csharp\pildoraPooCsharp\PildoraPoo\obj\Debug\net8.0\PildoraPoo.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Documentos\factoriaf5\csharp\pildoraPooCsharp\PildoraPoo\obj\Debug\net8.0\ref\PildoraPoo.dll
